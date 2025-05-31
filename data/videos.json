@@ -1,0 +1,80 @@
+[
+    {
+        "id": "video1",
+        "title": "Learn Flask in 10 Minutes",
+        "channel_name": "Coding Tutorials",
+        "views_short": "1.2M",
+        "views_full": 1200000,
+        "uploaded_short": "2 years ago",
+        "uploaded_full": "2 years ago",
+        "duration": "9:58",
+        "thumbnail_url": "/static/thumbnails/flask_tutorial.jpg",
+        "likes": 85000,
+        "subscribers": 750000
+    },
+    {
+        "id": "video2",
+        "title": "Mastering Python for Beginners",
+        "channel_name": "Python Hub",
+        "views_short": "500K",
+        "views_full": 500000,
+        "uploaded_short": "6 months ago",
+        "uploaded_full": "6 months ago",
+        "duration": "1:23:45",
+        "thumbnail_url": "/static/thumbnails/python_master.jpg",
+        "likes": 25000,
+        "subscribers": 1500000
+    },
+    {
+        "id": "video3",
+        "title": "Building a REST API with Flask",
+        "channel_name": "API Builder",
+        "views_short": "300K",
+        "views_full": 300000,
+        "uploaded_short": "1 year ago",
+        "uploaded_full": "1 year ago",
+        "duration": "25:30",
+        "thumbnail_url": "/static/thumbnails/flask_api.jpg",
+        "likes": 18000,
+        "subscribers": 400000
+    },
+    {
+        "id": "video4",
+        "title": "Introduction to Django",
+        "channel_name": "Web Dev Zone",
+        "views_short": "800K",
+        "views_full": 800000,
+        "uploaded_short": "3 years ago",
+        "uploaded_full": "3 years ago",
+        "duration": "45:00",
+        "thumbnail_url": "/static/thumbnails/django_intro.jpg",
+        "likes": 40000,
+        "subscribers": 900000
+    },
+    {
+        "id": "video5",
+        "title": "Top 10 VS Code Extensions",
+        "channel_name": "Dev Tools Pro",
+        "views_short": "2.5M",
+        "views_full": 2500000,
+        "uploaded_short": "4 months ago",
+        "uploaded_full": "4 months ago",
+        "duration": "12:15",
+        "thumbnail_url": "/static/thumbnails/vscode_extensions.jpg",
+        "likes": 94000,
+        "subscribers": 620000
+    },
+    {
+        "id": "video6",
+        "title": "Top 10 AI Tools You Should Know",
+        "channel_name": "TechVision",
+        "views_short": "3.2M",
+        "views_full": 3250000,
+        "uploaded_short": "2 days ago",
+        "uploaded_full": "2 days ago",
+        "duration": "15:00",
+        "thumbnail_url": "/static/thumbnails/ai_tools.jpg",
+        "likes": 94000,
+        "subscribers": 620000
+    }
+]
